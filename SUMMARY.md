@@ -2,6 +2,7 @@
 
 * **Введение**
   * [Быстрый старт](/docs/introduction/quick-start.md)
+  * [Начало работы с Redux Toolkit](/docs/introduction/getting-started.md)
 * **Руководства**
   * [Базовое руководство](/docs/tutorials/basic-tutorial.md)
   * [Руководство для среднего уровня](/docs/tutorials/intermediate-tutorial.md)
